@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pixablast</string>
+    <string name="my_caption">My Caption</string>
+    <string name="date">Date</string>
+    <string name="by_michael_may">by Michael May</string>
+    <string name="preview_of_photo">Preview of Photo</string>
+    <string name="add_new_entry_button">Add New Entry Button</string>
+</resources>
