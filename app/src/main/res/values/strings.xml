@@ -5,4 +5,7 @@
     <string name="by_michael_may">by Michael May</string>
     <string name="preview_of_photo">Preview of Photo</string>
     <string name="add_new_entry_button">Add New Entry Button</string>
+    <string name="save">Save</string>
+    <string name="caption">Caption</string>
+    <string name="posted_by">Posted By</string>
 </resources>

@@ -3,7 +3,6 @@ package com.bombadu.pixablast.ui
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.bombadu.pixablast.R
 import com.bombadu.pixablast.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
